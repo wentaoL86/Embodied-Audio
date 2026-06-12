@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multimodal Auditory Learning for Embodied Intelligence</title>
+    <meta
+      name="description"
+      content="A survey page for multimodal auditory learning in embodied intelligence, organized by physical, symbolic, and social loops."
+    />
+    <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#overview" aria-label="Survey home">
+        <img src="assets/icon.svg" alt="" />
+        <span>Auditory Embodied Intelligence Survey</span>
+      </a>
+      <nav aria-label="Page navigation">
+        <a href="#taxonomy">Taxonomy</a>
+        <a href="#nine-sections">Nine Sections</a>
+        <a href="#domains">Research Domains</a>
+        <a href="#figures">Figures</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="overview" class="overview">
+        <div class="overview-copy">
+          <p class="eyebrow">Survey website</p>
+          <h1>Multimodal Auditory Learning for Embodied Intelligence</h1>
+          <p class="lead">
+            A three-loop, three-stage organization for understanding how auditory signals support embodied
+            perception, reasoning, and interaction.
+          </p>
+          <div class="actions">
+            <a class="button primary" href="#nine-sections">Explore the 9-part taxonomy</a>
+            <a class="button secondary" href="#domains">View professional domains</a>
+          </div>
+        </div>
+        <div class="overview-visual" aria-label="Robot audio icon and compact taxonomy">
+          <img class="hero-icon" src="assets/icon.svg" alt="Robot with audio waves" />
+          <div class="compact-grid">
+            <span></span>
+            <strong>Listen</strong>
+            <strong>Reason</strong>
+            <strong>Interact</strong>
+            <b>Physical</b>
+            <em>Acoustic sensing</em>
+            <em>State estimation</em>
+            <em>Control feedback</em>
+            <b>Symbolic</b>
+            <em>Instruction understanding</em>
+            <em>Grounding and planning</em>
+            <em>Language-action output</em>
+            <b>Social</b>
+            <em>Affect sensing</em>
+            <em>Social cognition</em>
+            <em>Expressive output</em>
+          </div>
+        </div>
+      </section>
+
+      <section id="taxonomy" class="section-band">
+        <div class="section-heading">
+          <p class="eyebrow">Taxonomy</p>
+          <h2>Three loops × three stages</h2>
+          <p>
+            The survey treats audition as a closed-loop capability: robots listen to physical, symbolic, and
+            social signals; reason over grounded state; and interact through actions, language, and expression.
+          </p>
+        </div>
+        <div class="taxonomy-strip">
+          <div class="loop physical">
+            <h3>Physical loop</h3>
+            <p>Physical acoustics → state/control</p>
+          </div>
+          <div class="loop symbolic">
+            <h3>Symbolic loop</h3>
+            <p>Speech/language → grounded action</p>
+          </div>
+          <div class="loop social">
+            <h3>Social loop</h3>
+            <p>Affect/social cues → adaptive interaction</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="nine-sections" class="content-section">
+        <div class="section-heading">
+          <p class="eyebrow">Nine-part summary</p>
+          <h2>What each section covers</h2>
+          <p>
+            Each block below summarizes the role of audition in one loop-stage cell and lists the professional
+            domains that currently support that part of the survey.
+          </p>
+        </div>
+        <div id="sectionGrid" class="section-grid" aria-live="polite"></div>
+      </section>
+
+      <section id="domains" class="section-band">
+        <div class="section-heading">
+          <p class="eyebrow">2025-2026 update</p>
+          <h2>Professional research domains</h2>
+          <p>
+            These domains are named with established task or field terminology. Counts come from the 2025-2026
+            candidate set after filtering out directions with fewer than five papers.
+          </p>
+        </div>
+        <div id="domainTable" class="domain-table"></div>
+      </section>
+
+      <section id="figures" class="content-section">
+        <div class="section-heading">
+          <p class="eyebrow">Visual overview</p>
+          <h2>Figures used by the survey</h2>
+          <p>Selected figures from the LaTeX project can be reused directly in the GitHub Pages site.</p>
+        </div>
+        <div class="figure-gallery">
+          <figure>
+            <img src="figures/taxonomy_loop.png" alt="Three-loop taxonomy figure" />
+            <figcaption>Closed-loop taxonomy across physical, symbolic, and social auditory intelligence.</figcaption>
+          </figure>
+          <figure>
+            <img src="figures/research_direction_taxonomy.png" alt="Research direction taxonomy figure" />
+            <figcaption>Research directions mapped into the three loops and listen-reason-interact stages.</figcaption>
+          </figure>
+          <figure>
+            <img src="figures/motivation_overview.png" alt="Motivation overview figure" />
+            <figcaption>Motivation: audition links off-screen events, spoken intent, and affective cues to action.</figcaption>
+          </figure>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Built for the survey <em>Multimodal Auditory Learning for Embodied Intelligence</em>. The site is static and can
+        be deployed with GitHub Pages.
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

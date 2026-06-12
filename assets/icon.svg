@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Auditory embodied intelligence robot icon</title>
+  <desc id="desc">A small robot head with multicolor audio waves and physical, symbolic, social loop dots.</desc>
+  <defs>
+    <linearGradient id="waveBlue" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#1d4f91"/>
+      <stop offset="1" stop-color="#42b7cf"/>
+    </linearGradient>
+    <linearGradient id="waveOrange" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#d97316"/>
+      <stop offset="1" stop-color="#ffc83d"/>
+    </linearGradient>
+    <linearGradient id="robotFill" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity=".18"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="#ffffff"/>
+
+  <g fill="none" stroke-linecap="round" stroke-width="18">
+    <path d="M62 196v-18" stroke="#1d4f91"/>
+    <path d="M98 218v-62" stroke="#255c9f"/>
+    <path d="M134 242V132" stroke="#2a75b8"/>
+    <path d="M170 270V104" stroke="#2c9bd0"/>
+    <path d="M206 242V134" stroke="#42b7cf"/>
+    <path d="M242 216v-58" stroke="#66c7cc"/>
+
+    <path d="M304 238V122" stroke="#d97316"/>
+    <path d="M340 214v-72" stroke="#f97316"/>
+    <path d="M376 228v-50" stroke="#fb9f1c"/>
+    <path d="M412 250V150" stroke="#fbbf24"/>
+    <path d="M448 224v-58" stroke="#facc15"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="168" y="250" width="176" height="130" rx="34" fill="url(#robotFill)" stroke="#0f4f86" stroke-width="12"/>
+    <rect x="203" y="211" width="106" height="74" rx="34" fill="#e0f2fe" stroke="#0f4f86" stroke-width="12"/>
+    <path d="M256 211v-44" stroke="#0f4f86" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="256" cy="151" r="16" fill="#f97316"/>
+    <circle cx="222" cy="311" r="14" fill="#1d4f91"/>
+    <circle cx="290" cy="311" r="14" fill="#1d4f91"/>
+    <path d="M222 346c20 18 48 18 68 0" fill="none" stroke="#0f4f86" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-width="10">
+    <path d="M118 406c38 28 89 34 138 12" stroke="#2a75b8"/>
+    <path d="M256 418c48 22 100 16 138-12" stroke="#f97316"/>
+    <path d="M150 424c74 48 165 48 238 0" stroke="#42b7cf" opacity=".7"/>
+  </g>
+
+  <circle cx="112" cy="382" r="18" fill="#1d4f91"/>
+  <circle cx="400" cy="382" r="18" fill="#f97316"/>
+  <circle cx="256" cy="430" r="14" fill="#42b7cf"/>
+</svg>
