@@ -36,6 +36,10 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer](https://arxiv.org/abs/2609.07440) | 2026 | Speech Enhancement | arXiv | - | - |
+| [Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392) | 2026 | Sound Source Localization | arXiv | - | - |
+| [Spatial Speech Perception Systems: A Survey of Sound Source Localization, Directional Enhancement, and Speech Recognition](https://arxiv.org/abs/2607.02296) | 2026 | Sound Source Localization | arXiv | - | - |
+| [NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664) | 2026 | Sound Source Localization | arXiv | https://github.com/yizhuoyang/NeuralMUSIC | 10 |
 | [Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array](http://arxiv.org/abs/2602.17818v1) | 2026 | Speech Enhancement | arXiv | - | - |
 | [Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments](https://doi.org/10.1109/iros60139.2025.11246992) | 2025 | Sound Source Localization | DOI | - | - |
 | [Swarm Active Audition with Robots and Drones: Real-World Performance Validation](https://doi.org/10.1109/iros60139.2025.11247372) | 2025 | Active Audition | DOI | - | - |
@@ -47,6 +51,10 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [BinauralVAE: Spatial Audio Reconstruction For World Models](https://arxiv.org/abs/2609.06837) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/BinauralVAE | 2 |
+| [A Hybrid Mamba for Audio-Visual Navigation](https://arxiv.org/abs/2607.13110) | 2026 | Audio-Visual Navigation | arXiv | - | - |
+| [LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation](https://arxiv.org/abs/2607.03920) | 2026 | Audio-Visual Navigation | arXiv | - | - |
+| [Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation](https://arxiv.org/abs/2604.02391) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Spatial-Aware Conditioned Fusion for Audio-Visual Navigation](http://arxiv.org/abs/2604.02390) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Semantic Audio-Visual Navigation in Continuous Environments](http://arxiv.org/abs/2603.19660) | 2026 | Audio-Visual Scene Understanding | arXiv | - | - |
 | [NaVLA$^2$: A Vision-Language-Audio-Action Model for Multimodal Instruction Navigation](https://doi.org/10.1609/aaai.v40i22.38886) | 2026 | Audio-Visual Navigation | DOI | - | - |
@@ -58,6 +66,9 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
+| [Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563) | 2026 | Sonic Feedback Interfaces | arXiv | - | - |
+| [Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation](https://arxiv.org/abs/2603.16086) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/IRMVLab/HEAR | 11 |
 | [Decentralized LLM-Driven Coordination of Acoustic Robots for Contactless Object Manipulation](https://arxiv.org/abs/2605.29378) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Decoupled Spatial Audio for Room-Integrated Robots: An Augmentation Approach to Navigational Intent Communication](https://doi.org/10.1145/3795011.3795012) | 2026 | Sonic Feedback Interfaces | DOI | - | - |
 | [The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces](http://arxiv.org/abs/2511.15956v3) | 2025 | Sonic Feedback Interfaces | arXiv | - | - |
@@ -69,6 +80,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [LLM-Powered Interactive Robotic Action Synthesis from Multimodal Speech, Gestures, and Music](https://arxiv.org/abs/2606.31158) | 2026 | Spoken Instruction Parsing | arXiv | - | - |
 | [Enhancing Speech Instruction Understanding and Disambiguation in Robotics via Speech Prosody](http://arxiv.org/abs/2506.02057v1) | 2025 | Prosody-Aware Intent Recognition | arXiv | - | - |
 | [VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v2) | 2025 | Spoken Instruction Parsing | arXiv | - | - |
 | [Talking to Robots: A Practical Examination of Speech Foundation Models for HRI Applications](https://arxiv.org/abs/2508.17753) | 2025 | Automatic Speech Recognition | arXiv | - | - |
@@ -91,6 +103,9 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration](https://arxiv.org/abs/2608.15549) | 2026 | Spoken Dialogue Management | arXiv | - | - |
+| [Instruct-FD: Can Your Full-Duplex Speech System Follow Turn-Taking Instructions?](https://arxiv.org/abs/2607.20460) | 2026 | Full-Duplex Verbal Feedback | arXiv | - | - |
+| [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](https://arxiv.org/abs/2607.11633) | 2026 | Spoken Dialogue Management | arXiv | - | - |
 | [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v2) | 2026 | Action-Justified Language Generation | arXiv | - | - |
 | [Diagnosing Live Within-Policy Instruction Conflicts in LLM Agents with Witnessed Resolution Profiles](https://arxiv.org/abs/2605.27784) | 2026 | Online Instruction Correction | arXiv | - | - |
 | [The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](https://arxiv.org/abs/2603.17837) | 2026 | Full-Duplex Verbal Feedback | arXiv | - | - |
@@ -113,6 +128,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?](https://arxiv.org/abs/2608.13239) | 2026 | User State Estimation | arXiv | - | - |
 | [Learning to Collaborate: Toward Robust, Adaptive Policies for Human-Robot Teams](https://hdl.handle.net/10919/143182) | 2026 | Trust and Relationship Modeling | Paper | - | - |
 | [The Role of Perceived Moral Agency of a Humanoid Robot on the Willingness to Self-Disclose, Trustworthiness, Goodwill, and Liking](https://doi.org/10.1007/s12369-026-01405-y) | 2026 | Social Norm Modeling | DOI | - | - |
 | [Engagement Is Not Transfer: A Withdrawal Study of a Consumer Social Robot with Autistic Children at Home](http://arxiv.org/abs/2604.02642v1) | 2026 | Engagement Modeling | arXiv | - | - |
@@ -124,6 +140,8 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots](https://arxiv.org/abs/2608.16686) | 2026 | Affective Response Generation | arXiv | - | - |
+| [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](https://arxiv.org/abs/2606.16600) | 2026 | Co-Speech Gesture Generation | arXiv | https://github.com/pairs-lab/WaveSync | 1 |
 | [Informing Robot Wellbeing Coach Design through Longitudinal Analysis of Human-AI Dialogue](http://arxiv.org/abs/2602.04478v1) | 2026 | Affective Response Generation | arXiv | - | - |
 | [Exploring robot-led activities between people living with dementia and family care partners](https://doi.org/10.3389/frobt.2026.1772079) | 2026 | Affective Response Generation | DOI | - | - |
 | [Synthetic Emotions vs. Gamification: Exploring Engagement Strategies for Small Social Robots in Different Age Groups](https://arxiv.org/abs/2605.27539) | 2026 | Affective Response Generation | arXiv | - | - |
