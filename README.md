@@ -55,6 +55,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | [A Hybrid Mamba for Audio-Visual Navigation](https://arxiv.org/abs/2607.13110) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation](https://arxiv.org/abs/2607.03920) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation](https://arxiv.org/abs/2604.02391) | 2026 | Audio-Visual Navigation | arXiv | - | - |
+| [Audio Spatially-Guided Fusion for Audio-Visual Navigation](https://arxiv.org/abs/2604.02389) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Spatial-Aware Conditioned Fusion for Audio-Visual Navigation](http://arxiv.org/abs/2604.02390) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Semantic Audio-Visual Navigation in Continuous Environments](http://arxiv.org/abs/2603.19660) | 2026 | Audio-Visual Scene Understanding | arXiv | - | - |
 | [NaVLA$^2$: A Vision-Language-Audio-Action Model for Multimodal Instruction Navigation](https://doi.org/10.1609/aaai.v40i22.38886) | 2026 | Audio-Visual Navigation | DOI | - | - |
@@ -67,6 +68,8 @@ The tables below list representative papers from the current nine-part taxonomy.
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
 | [S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
+| [MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2606.17598) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/microsoft/MuseVLA | 0 |
+| [From Instruction to Event: Sound-Triggered Mobile Manipulation](https://arxiv.org/abs/2601.21667) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563) | 2026 | Sonic Feedback Interfaces | arXiv | - | - |
 | [Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation](https://arxiv.org/abs/2603.16086) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/IRMVLab/HEAR | 11 |
 | [Decentralized LLM-Driven Coordination of Acoustic Robots for Contactless Object Manipulation](https://arxiv.org/abs/2605.29378) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
