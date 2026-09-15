@@ -37,6 +37,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
 | [Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer](https://arxiv.org/abs/2609.07440) | 2026 | Speech Enhancement | arXiv | - | - |
+| [Embodied Passive Aeroacoustic Perception Enables Relative Sensing and Pursuit Between Aerial Robots](https://arxiv.org/abs/2608.00401) | 2026 | Sound Source Localization | arXiv | - | - |
 | [Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392) | 2026 | Sound Source Localization | arXiv | - | - |
 | [Spatial Speech Perception Systems: A Survey of Sound Source Localization, Directional Enhancement, and Speech Recognition](https://arxiv.org/abs/2607.02296) | 2026 | Sound Source Localization | arXiv | - | - |
 | [NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664) | 2026 | Sound Source Localization | arXiv | https://github.com/yizhuoyang/NeuralMUSIC | 10 |
@@ -52,6 +53,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
 | [BinauralVAE: Spatial Audio Reconstruction For World Models](https://arxiv.org/abs/2609.06837) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/BinauralVAE | 2 |
+| [AudioWorldSim: Realistic Binaural Audio Datasets For World Models](https://arxiv.org/abs/2608.21075) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/AudioWorldSim | 5 |
 | [A Hybrid Mamba for Audio-Visual Navigation](https://arxiv.org/abs/2607.13110) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation](https://arxiv.org/abs/2607.03920) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation](https://arxiv.org/abs/2604.02391) | 2026 | Audio-Visual Navigation | arXiv | - | - |
@@ -69,6 +71,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | --- | --- | --- | --- | --- | --- |
 | [S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2606.17598) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/microsoft/MuseVLA | 0 |
+| [VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344) | 2026 | Contact-Based Manipulation | arXiv | - | - |
 | [From Instruction to Event: Sound-Triggered Mobile Manipulation](https://arxiv.org/abs/2601.21667) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563) | 2026 | Sonic Feedback Interfaces | arXiv | - | - |
 | [Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation](https://arxiv.org/abs/2603.16086) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/IRMVLab/HEAR | 11 |
