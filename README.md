@@ -54,6 +54,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | --- | --- | --- | --- | --- | --- |
 | [BinauralVAE: Spatial Audio Reconstruction For World Models](https://arxiv.org/abs/2609.06837) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/BinauralVAE | 2 |
 | [AudioWorldSim: Realistic Binaural Audio Datasets For World Models](https://arxiv.org/abs/2608.21075) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/AudioWorldSim | 5 |
+| [Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics](https://arxiv.org/abs/2512.00883) | 2025 | Acoustic Simulation | arXiv | - | - |
 | [A Hybrid Mamba for Audio-Visual Navigation](https://arxiv.org/abs/2607.13110) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation](https://arxiv.org/abs/2607.03920) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation](https://arxiv.org/abs/2604.02391) | 2026 | Audio-Visual Navigation | arXiv | - | - |
@@ -80,6 +81,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | [The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces](http://arxiv.org/abs/2511.15956v3) | 2025 | Sonic Feedback Interfaces | arXiv | - | - |
 | [A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking](http://arxiv.org/abs/2504.06593v1) | 2025 | Audio-Guided Manipulation | arXiv | - | - |
 | [MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance](http://arxiv.org/abs/2504.03379v1) | 2025 | Contact-Based Manipulation | arXiv | - | - |
+| [OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation](https://arxiv.org/abs/2511.01210) | 2025 | Audio-Guided Manipulation | arXiv | https://github.com/GuoHeyu/OmniVLA | 15 |
 | [Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation](http://arxiv.org/abs/2511.09958v1) | 2025 | Audio-Guided Manipulation | arXiv | - | - |
 
 ### Symbolic Listen (Sy1 Listen)
