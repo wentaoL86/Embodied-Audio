@@ -71,6 +71,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
 | [S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
+| [Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](https://arxiv.org/abs/2609.19137) | 2026 | Contact-Based Manipulation | arXiv | - | - |
 | [MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2606.17598) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/microsoft/MuseVLA | 0 |
 | [VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity](https://arxiv.org/abs/2606.27344) | 2026 | Contact-Based Manipulation | arXiv | - | - |
 | [From Instruction to Event: Sound-Triggered Mobile Manipulation](https://arxiv.org/abs/2601.21667) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
