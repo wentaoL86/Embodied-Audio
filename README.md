@@ -52,6 +52,8 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [CTAN: Cycle-Temporal Attention Network for Embodied Audio-Visual Navigation](https://arxiv.org/abs/2609.17420) | 2026 | Audio-Visual Navigation | arXiv | - | - |
+| [Transformer-Based Token Fusion and Dynamic Graph Planning for Audio-Visual Navigation](https://arxiv.org/abs/2609.17421) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [BinauralVAE: Spatial Audio Reconstruction For World Models](https://arxiv.org/abs/2609.06837) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/BinauralVAE | 2 |
 | [AudioWorldSim: Realistic Binaural Audio Datasets For World Models](https://arxiv.org/abs/2608.21075) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/AudioWorldSim | 5 |
 | [Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics](https://arxiv.org/abs/2512.00883) | 2025 | Acoustic Simulation | arXiv | - | - |
@@ -70,6 +72,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Learning Robot Manipulation from Audio World Models](https://arxiv.org/abs/2512.08405) | 2025 | Audio-Guided Manipulation | arXiv | - | - |
 | [S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](https://arxiv.org/abs/2609.19137) | 2026 | Contact-Based Manipulation | arXiv | - | - |
 | [MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2606.17598) | 2026 | Audio-Guided Manipulation | arXiv | https://github.com/microsoft/MuseVLA | 0 |
