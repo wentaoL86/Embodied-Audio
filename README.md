@@ -52,6 +52,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance](https://arxiv.org/abs/2609.21792) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [CTAN: Cycle-Temporal Attention Network for Embodied Audio-Visual Navigation](https://arxiv.org/abs/2609.17420) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [Transformer-Based Token Fusion and Dynamic Graph Planning for Audio-Visual Navigation](https://arxiv.org/abs/2609.17421) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [BinauralVAE: Spatial Audio Reconstruction For World Models](https://arxiv.org/abs/2609.06837) | 2026 | Acoustic Simulation | arXiv | https://github.com/Luizerko/BinauralVAE | 2 |
