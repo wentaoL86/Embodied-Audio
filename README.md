@@ -36,6 +36,8 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Audio-based UAV Localization with Adaptive Temporal Correspondence via Reinforcement Learning](https://arxiv.org/abs/2609.24218) | 2026 | Sound Source Localization | arXiv | - | - |
+| [Acoustic Ellipses: Bio-Inspired Omnidirectional Echolocation in Cooperative Multi-Agent Systems using Frequency Sweeps](https://arxiv.org/abs/2609.26085) | 2026 | Active Audition | arXiv | - | - |
 | [Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer](https://arxiv.org/abs/2609.07440) | 2026 | Speech Enhancement | arXiv | - | - |
 | [Embodied Passive Aeroacoustic Perception Enables Relative Sensing and Pursuit Between Aerial Robots](https://arxiv.org/abs/2608.00401) | 2026 | Sound Source Localization | arXiv | - | - |
 | [Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392) | 2026 | Sound Source Localization | arXiv | - | - |
@@ -117,6 +119,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](https://arxiv.org/abs/2609.24547) | 2026 | Full-Duplex Verbal Feedback | arXiv | - | - |
 | [MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration](https://arxiv.org/abs/2608.15549) | 2026 | Spoken Dialogue Management | arXiv | - | - |
 | [Instruct-FD: Can Your Full-Duplex Speech System Follow Turn-Taking Instructions?](https://arxiv.org/abs/2607.20460) | 2026 | Full-Duplex Verbal Feedback | arXiv | - | - |
 | [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](https://arxiv.org/abs/2607.11633) | 2026 | Spoken Dialogue Management | arXiv | - | - |
