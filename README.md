@@ -36,6 +36,8 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [SEA-LM: Egocentric Spatial Audio Understanding for Wearable Microphone Arrays](https://arxiv.org/abs/2610.05610) | 2026 | Sound Source Localization | arXiv | - | - |
+| [Self-Supervised Deconvolution of In-Air Sonar Images Using Sensor Ego-Motion](https://arxiv.org/abs/2610.09682) | 2026 | Active Audition | arXiv | - | - |
 | [Audio-based UAV Localization with Adaptive Temporal Correspondence via Reinforcement Learning](https://arxiv.org/abs/2609.24218) | 2026 | Sound Source Localization | arXiv | - | - |
 | [Acoustic Ellipses: Bio-Inspired Omnidirectional Echolocation in Cooperative Multi-Agent Systems using Frequency Sweeps](https://arxiv.org/abs/2609.26085) | 2026 | Active Audition | arXiv | - | - |
 | [Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer](https://arxiv.org/abs/2609.07440) | 2026 | Speech Enhancement | arXiv | - | - |
@@ -54,6 +56,11 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation](https://arxiv.org/abs/2609.32224) | 2026 | Audio-Visual Navigation | arXiv | - | - |
+| [BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation](https://arxiv.org/abs/2609.37084) | 2026 | Audio-Visual Navigation | arXiv | - | - |
+| [BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph](https://arxiv.org/abs/2609.40085) | 2026 | Acoustic Mapping | arXiv | - | - |
+| [RMS-AQA: A Two-Stage Spatial Audio Question Answering Benchmark for Real-World Domestic Environments](https://arxiv.org/abs/2610.00935) | 2026 | Acoustic Scene Understanding | arXiv | - | - |
+| [Audible World Models: Spatially Aware Sound Generation for 3D Worlds](https://arxiv.org/abs/2609.38444) | 2026 | Acoustic Simulation | arXiv | - | - |
 | [OmniEcho: Spatial Audio Understanding for Embodied Agents](https://arxiv.org/abs/2609.23407) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance](https://arxiv.org/abs/2609.21792) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [CTAN: Cycle-Temporal Attention Network for Embodied Audio-Visual Navigation](https://arxiv.org/abs/2609.17420) | 2026 | Audio-Visual Navigation | arXiv | - | - |
@@ -76,6 +83,8 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [PolyUMI: Accessible Visual-Tactile-Audio Data Collection for Object Inference and Manipulation](https://arxiv.org/abs/2609.29760) | 2026 | Contact-Based Manipulation | arXiv | - | - |
+| [ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception](https://arxiv.org/abs/2610.06955) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Learning Robot Manipulation from Audio World Models](https://arxiv.org/abs/2512.08405) | 2025 | Audio-Guided Manipulation | arXiv | - | - |
 | [S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information](https://arxiv.org/abs/2607.26047) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](https://arxiv.org/abs/2609.19137) | 2026 | Contact-Based Manipulation | arXiv | - | - |
@@ -119,6 +128,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Towards an Extensible Benchmark for Spoken Dialogue with Social Robots](https://arxiv.org/abs/2610.08733) | 2026 | Spoken Dialogue Management | arXiv | - | - |
 | [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](https://arxiv.org/abs/2609.24547) | 2026 | Full-Duplex Verbal Feedback | arXiv | - | - |
 | [MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration](https://arxiv.org/abs/2608.15549) | 2026 | Spoken Dialogue Management | arXiv | - | - |
 | [Instruct-FD: Can Your Full-Duplex Speech System Follow Turn-Taking Instructions?](https://arxiv.org/abs/2607.20460) | 2026 | Full-Duplex Verbal Feedback | arXiv | - | - |
@@ -134,6 +144,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [SocialVLA: A Social Perception Gateway for Human-Reaction-Based Failure Detection and Recovery in VLA Manipulation](https://arxiv.org/abs/2610.02360) | 2026 | Paralinguistic Analysis | arXiv | - | - |
 | [Perceptive Artificial Hearing Module for User Interfaces: Speaker Identification, Emotion Classification, and Spatial Localization](https://doi.org/10.1109/access.2026.3668088) | 2026 | Speaker Recognition | DOI | - | - |
 | [A User Recognition Methodology Based on Voice Biometrics and Dynamic Clustering for Social Robots](https://doi.org/10.3390/app16094548) | 2026 | Speaker Recognition | DOI | - | - |
 | [Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue](http://arxiv.org/abs/2603.09307v1) | 2026 | Paralinguistic Analysis | arXiv | - | - |
@@ -157,6 +168,10 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [ECHO-G: Embodied Co-speech Humanoid mOtion Generation](https://arxiv.org/abs/2609.39575) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
+| [GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/abs/2609.38400) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
+| [SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation](https://arxiv.org/abs/2609.33311) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
+| [Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot](https://arxiv.org/abs/2610.06153) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
 | [Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots](https://arxiv.org/abs/2608.16686) | 2026 | Affective Response Generation | arXiv | - | - |
 | [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](https://arxiv.org/abs/2606.16600) | 2026 | Co-Speech Gesture Generation | arXiv | https://github.com/pairs-lab/WaveSync | 1 |
 | [Informing Robot Wellbeing Coach Design through Longitudinal Analysis of Human-AI Dialogue](http://arxiv.org/abs/2602.04478v1) | 2026 | Affective Response Generation | arXiv | - | - |
