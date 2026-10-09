@@ -56,6 +56,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs](https://arxiv.org/abs/2610.11310) | 2026 | Audio-Visual Scene Understanding | arXiv | https://github.com/byulharang/FloorSAV | 0 |
 | [RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation](https://arxiv.org/abs/2609.32224) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation](https://arxiv.org/abs/2609.37084) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph](https://arxiv.org/abs/2609.40085) | 2026 | Acoustic Mapping | arXiv | - | - |
