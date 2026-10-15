@@ -56,6 +56,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping](https://arxiv.org/abs/2610.18479) | 2026 | Acoustic Mapping | arXiv | https://github.com/Cosys-Lab/RTISSLAM | 0 |
 | [Two-Stage Multi-modal Learning for Dynamic Audio-Visual Navigation: From Physical Alignment to Scene Aggregation](https://arxiv.org/abs/2610.14077) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs](https://arxiv.org/abs/2610.11310) | 2026 | Audio-Visual Scene Understanding | arXiv | https://github.com/byulharang/FloorSAV | 0 |
 | [RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation](https://arxiv.org/abs/2609.32224) | 2026 | Audio-Visual Navigation | arXiv | - | - |
