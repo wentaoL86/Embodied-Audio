@@ -56,6 +56,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs](https://arxiv.org/abs/2610.21588) | 2026 | Audio-Visual Scene Understanding | arXiv | - | - |
 | [RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping](https://arxiv.org/abs/2610.18479) | 2026 | Acoustic Mapping | arXiv | https://github.com/Cosys-Lab/RTISSLAM | 0 |
 | [Two-Stage Multi-modal Learning for Dynamic Audio-Visual Navigation: From Physical Alignment to Scene Aggregation](https://arxiv.org/abs/2610.14077) | 2026 | Audio-Visual Navigation | arXiv | - | - |
 | [FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs](https://arxiv.org/abs/2610.11310) | 2026 | Audio-Visual Scene Understanding | arXiv | https://github.com/byulharang/FloorSAV | 0 |
@@ -86,6 +87,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [MuSTMM: Learning Sound-Triggered Mobile Manipulation across Multiple Scenes](https://arxiv.org/abs/2610.21429) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [PolyUMI: Accessible Visual-Tactile-Audio Data Collection for Object Inference and Manipulation](https://arxiv.org/abs/2609.29760) | 2026 | Contact-Based Manipulation | arXiv | - | - |
 | [ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception](https://arxiv.org/abs/2610.06955) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Learning Robot Manipulation from Audio World Models](https://arxiv.org/abs/2512.08405) | 2025 | Audio-Guided Manipulation | arXiv | - | - |
