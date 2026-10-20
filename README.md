@@ -89,6 +89,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
 | [MuSTMM: Learning Sound-Triggered Mobile Manipulation across Multiple Scenes](https://arxiv.org/abs/2610.21429) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
+| [Listen Before Act: Audio-Conditioned Robot Manipulation with ListenVLA](https://arxiv.org/abs/2610.16313) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [PolyUMI: Accessible Visual-Tactile-Audio Data Collection for Object Inference and Manipulation](https://arxiv.org/abs/2609.29760) | 2026 | Contact-Based Manipulation | arXiv | - | - |
 | [ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception](https://arxiv.org/abs/2610.06955) | 2026 | Audio-Guided Manipulation | arXiv | - | - |
 | [Learning Robot Manipulation from Audio World Models](https://arxiv.org/abs/2512.08405) | 2025 | Audio-Guided Manipulation | arXiv | - | - |
