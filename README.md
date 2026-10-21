@@ -56,6 +56,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar](https://arxiv.org/abs/2610.22552) | 2026 | Acoustic Mapping | arXiv | - | - |
 | [Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs](https://arxiv.org/abs/2610.21588) | 2026 | Audio-Visual Scene Understanding | arXiv | - | - |
 | [RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping](https://arxiv.org/abs/2610.18479) | 2026 | Acoustic Mapping | arXiv | https://github.com/Cosys-Lab/RTISSLAM | 0 |
 | [ADAPT: Audio-Depth Action Planning with Transition-Aware Rewards for Lights-Out Industrial Navigation](https://arxiv.org/abs/2610.15956) | 2026 | Audio-Visual Navigation | arXiv | - | - |
