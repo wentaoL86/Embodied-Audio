@@ -176,6 +176,7 @@ The tables below list representative papers from the current nine-part taxonomy.
 
 | Paper | Year | Task | Link Type | GitHub | Stars |
 | --- | --- | --- | --- | --- | --- |
+| [Rhythmic-Semantic Co-Speech Gestures for Emotional Dialogue in Robots](https://arxiv.org/abs/2611.13472) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
 | [ECHO-G: Embodied Co-speech Humanoid mOtion Generation](https://arxiv.org/abs/2609.39575) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
 | [GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/abs/2609.38400) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
 | [SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation](https://arxiv.org/abs/2609.33311) | 2026 | Co-Speech Gesture Generation | arXiv | - | - |
